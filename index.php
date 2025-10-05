@@ -24,7 +24,7 @@
             <div class="text-center mb-4">
               
             </div>
-            <img src="assets/img/logo/7.png" alt="Logo" class="img-fluid" style="max-width: 120px;">
+            <img src="assets/img/logo/7.png" alt="Logo" class="img-fluid" style="max-width: 150px;">
             <h4 class="text-center fw-semibold mb-3">Sign In</h4>
             <p class="text-center mb-4 opacity-75" style="font-size: 14px;">Manage your school’s academic data easily and seamlessly.</p>
             <form>
@@ -60,7 +60,7 @@
 
           <!-- Bagian kanan -->
           <div class="col-md-6 bg-white d-flex align-items-center justify-content-center">
-            <img src="assets/img/image/ss.png" class="img-fluid" alt="illustration" style="max-width: 400px; object-fit: cover; border-top-right-radius: 0.5rem; border-bottom-right-radius: 0.5rem;">
+            <img src="assets/img/image/a.png" class="img-fluid" alt="illustration" style="max-width: 400px; object-fit: cover; border-top-right-radius: 0.5rem; border-bottom-right-radius: 0.5rem;">
           </div>
 
         </div>

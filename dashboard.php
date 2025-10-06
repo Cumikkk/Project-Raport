@@ -24,7 +24,7 @@
     </label>
 
     <div class="topbar-center">
-      <img src="Tanpa judul (300 x 138 piksel).png" style="margin-left:8px; " alt="Logo" class="dashboard-logo">
+      <img src="Gambar/Tanpa judul (300 x 138 piksel).png" alt="Logo" class="dashboard-logo">
     </div>
 
     <a href="logout.php" class="logout-btn desktop-only">

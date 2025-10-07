@@ -48,7 +48,7 @@
         <summary><span><i class="fas fa-building"></i> Lembaga</span> <i class="fas fa-angle-right arrow"></i></summary>
         <ul>
           <li><a href="#">Data Sekolah</a></li>
-          <li><a href="#">Data Siswa</a></li>
+          <li><a href="lembaga/data siswa/data_siswa.php">Data Siswa</a></li>
           <li><a href="#">Kelas</a></li>
           <li><a href="#">Semester Ganjil/Genap</a></li>
           <li><a href="#">Mata Pelajaran</a></li>
